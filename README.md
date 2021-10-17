@@ -9,3 +9,5 @@ Libraryes used --> matplotlib, numpy
 Installation.
 matplotlib -> pip install matplotlib
 numpy -> pip install numpy
+
+output in --> Pie-chart.png
